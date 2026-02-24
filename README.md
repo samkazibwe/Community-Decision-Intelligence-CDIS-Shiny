@@ -11,8 +11,6 @@ Main features:
 - Simple anomaly detection & intervention A/B trial planner
 - Exportable "decision brief" (PDF) for local meetings
 
-How to run:
-1. Install packages: `source("packages.R")`
-2. Launch: `shiny::runApp("app.R")`
+ packages: `source("packages.R")`
+ Launch: `shiny::runApp("app.R")`
 
-Replace `data/seed_*` files with your real exports when ready.

@@ -9,9 +9,4 @@ A lightweight decision-support system designed for local NGOs and district teams
 - Simple rule-based recommendation engine (actionable next steps).
 - Designed for quick deployment in low-bandwidth contexts (Streamlit).
 
-**Run locally**
-```bash
-python -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
-streamlit run app.py
+
